@@ -1,0 +1,2 @@
+# ASSIGNMENT
+Both SQL and PL/SQL
